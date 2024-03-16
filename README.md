@@ -11,4 +11,3 @@
 - ⚡ Fun fact: I love exploring new coding languages and experimenting with trading algorithms.
 - 🌍 I enjoy traveling and engaging in outdoor activities whenever possible.
 
-Feel free to explore my repository and connect with me for exciting opportunities!
