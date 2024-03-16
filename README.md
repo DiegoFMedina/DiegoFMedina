@@ -7,8 +7,7 @@
 - 👯 I’m looking to collaborate on projects that combine technology and finance.
 - 🤔 I’m looking for help with mastering advanced programming concepts.
 - 💬 Ask me about my experience in web development and trading.
-- 📫 How to reach me: [Insert your contact information or social media links here]
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: diefemeve@gmail.com
 - ⚡ Fun fact: I love exploring new coding languages and experimenting with trading algorithms.
 - 🌍 I enjoy traveling and engaging in outdoor activities whenever possible.
 
